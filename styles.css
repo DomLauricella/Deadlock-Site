@@ -1,0 +1,19 @@
+body {
+    background:#fffdeb;
+}
+
+h1 {
+    font-family: Impact;
+    color: gray;
+}
+
+p {
+    font-size: 1.2rem;
+    flex-wrap: wrap;
+    width: 23rem;
+}
+
+img {
+    border: solid 1rem;
+    border-color: orange;
+}
